@@ -3,15 +3,13 @@
 
 Email Me 👉 ✉️ **bappi616@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-I’m a Software Engineering student with a passion for building real-world apps and solving problems through code. I enjoy working on Android projects (like food delivery apps) using Kotlin, Jetpack Compose, and Firebase.
+I’m a Software Engineering student with a passion for building real-world apps and solving problems through code. I enjoy working on Android projects using Kotlin, Jetpack Compose, and Firebase.
 
 I also love competitive programming and constantly aim to improve my skills in data structures and algorithms.
 
   <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bappi-swe/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BIT-BY-BAPPI ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bappi616@gmail.com) 
