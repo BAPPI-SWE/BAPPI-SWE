@@ -1,7 +1,7 @@
-#  Hi 👋, I'm Rakibul islam Bappi
+#  Rakibul islam Bappi
 **A passionate Software Engineer || Competetive Programmer || Android App Developer**
 
-Email Me 👉 ✉️ **bappi616@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bappi616@gmail.com** For Collaboration/Project or Anything Else. 
 
 I’m a Software Engineering student with a passion for building real-world apps and solving problems through code. I enjoy working on Android projects using Kotlin, Jetpack Compose, and Firebase.
 
